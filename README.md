@@ -2,46 +2,45 @@
 
 **AI-Powered Study Material & Career Path Recommender System**
 
+An intelligent recommendation system that helps students discover the most relevant study topics and learning resources based on their interests.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+---
+
 ## 🎯 Project Overview
 
-An intelligent recommendation system that helps students find the most relevant study topics and resources based on their interests. 
+SmartEdu Recommender is a content-based recommendation system that suggests relevant study topics across multiple subjects. It analyzes the user's input and recommends the most similar topics using TF-IDF and Cosine Similarity.
 
 **Key Features:**
-- Content-based recommendation using TF-IDF + Cosine Similarity
-- Covers 5 major subjects (Computer Science, Physics, Math, Chemistry, English)
+- Smart topic recommendations based on user input
+- Covers 5 major subjects: Computer Science, Physics, Math, Chemistry, and English
 - Interactive web interface built with Streamlit
-- Personalized learning path suggestions
+- Large dataset with 50+ study topics
+- Real-time recommendations with similarity scores
 
-##  🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/VihaanPlayzYT/smartedu-recommender.git
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
+---
 
 ## 💡 Why I Built This
-As an IT Head and volunteer teacher for underprivileged students, I noticed many students struggle to find the right learning resources. 
-This project uses AI to bridge that gap by recommending the most relevant topics based on what they are interested in.
-🛠️ Technologies Used
 
-Python
-scikit-learn (TF-IDF + Cosine Similarity)
-Pandas
-Streamlit (Web Interface)
-tqdm (Progress Visualization)
+As the IT Head at my school and a volunteer teacher for underprivileged students, I noticed that many students struggle to find the right learning resources. This project aims to solve that problem by using AI to recommend the most relevant study topics and materials, making learning more accessible and personalized.
 
-📈 Future Improvements
+---
 
-Add user accounts and personalized learning history
-Integrate with real online course APIs (Coursera, YouTube, etc.)
-Add career path recommendation based on interests
-Deploy online (Streamlit Community Cloud / Render) ##
+## 🛠️ Technologies Used
+
+- **Python**
+- **scikit-learn** (TF-IDF + Cosine Similarity)
+- **Pandas**
+- **Streamlit** (Web Interface)
+- **tqdm** (Progress Visualization)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/VihaanPlayzYT/smartedu-recommender.git
