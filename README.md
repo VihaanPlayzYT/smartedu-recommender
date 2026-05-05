@@ -27,3 +27,20 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+
+💡 Why I Built This
+As an IT Head and volunteer teacher for underprivileged students, I noticed many students struggle to find the right learning resources. This project uses AI to bridge that gap by recommending the most relevant topics based on what they are interested in.
+🛠️ Technologies Used
+
+Python
+scikit-learn (TF-IDF + Cosine Similarity)
+Pandas
+Streamlit (Web Interface)
+tqdm (Progress Visualization)
+
+📈 Future Improvements
+
+Add user accounts and personalized learning history
+Integrate with real online course APIs (Coursera, YouTube, etc.)
+Add career path recommendation based on interests
+Deploy online (Streamlit Community Cloud / Render)
