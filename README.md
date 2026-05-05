@@ -29,7 +29,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 💡 Why I Built This
-As an IT Head and volunteer teacher for underprivileged students, I noticed many students struggle to find the right learning resources. This project uses AI to bridge that gap by recommending the most relevant topics based on what they are interested in.
+As an IT Head and volunteer teacher for underprivileged students, I noticed many students struggle to find the right learning resources. 
+This project uses AI to bridge that gap by recommending the most relevant topics based on what they are interested in.
 🛠️ Technologies Used
 
 Python
