@@ -16,7 +16,7 @@ An intelligent recommendation system that helps students find the most relevant 
 - Interactive web interface built with Streamlit
 - Personalized learning path suggestions
 
-## 🚀 How to Run
+##  🚀 How to Run
 
 ```bash
 # 1. Clone the repository
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 # 3. Run the app
 streamlit run app.py
 
-💡 Why I Built This
+## 💡 Why I Built This
 As an IT Head and volunteer teacher for underprivileged students, I noticed many students struggle to find the right learning resources. 
 This project uses AI to bridge that gap by recommending the most relevant topics based on what they are interested in.
 🛠️ Technologies Used
@@ -44,4 +44,4 @@ tqdm (Progress Visualization)
 Add user accounts and personalized learning history
 Integrate with real online course APIs (Coursera, YouTube, etc.)
 Add career path recommendation based on interests
-Deploy online (Streamlit Community Cloud / Render)
+Deploy online (Streamlit Community Cloud / Render) ##
